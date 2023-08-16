@@ -9,14 +9,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/githubtraining/exercise-remove-commit-history.git"
+    "url": "git+https://github.com/Ajaynano/exercise-remove-commit-history.git"
   },
   "author": "githubtraining",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/githubtraining/exercise-remove-commit-history/issues"
+    "url": "https://github.com/Ajaynano/exercise-remove-commit-history/issues"
   },
-  "homepage": "https://github.com/githubtraining/exercise-remove-commit-history#readme",
+  "homepage": "https://github.com/Ajaynano/exercise-remove-commit-history#readme",
   "dependencies": {
     "@actions/core": "^1.4.0",
     "@actions/github": "^5.0.0"
